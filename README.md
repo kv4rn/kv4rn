@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kv4rn
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning Python Flask
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me ...
 
