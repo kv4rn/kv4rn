@@ -1,4 +1,4 @@
-Currently learning programming
+Free bird yeah!
 
 <!---
 kv4rn/kv4rn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
